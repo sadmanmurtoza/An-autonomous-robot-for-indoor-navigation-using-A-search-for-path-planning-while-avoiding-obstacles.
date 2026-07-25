@@ -11,7 +11,8 @@ import csv
 import os
 
 from support.astar import a_star_search
-from support.visualize import visualize_grid
+from support.visualize import visualize_grid          
+from support.astar_planner import a_star_search   
 
 
 def load_grid(csv_path):
