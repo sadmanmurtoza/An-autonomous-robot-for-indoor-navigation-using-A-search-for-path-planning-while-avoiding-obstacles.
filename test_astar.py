@@ -8,7 +8,7 @@ and reports whether a correct path is found (or correctly reported as
 unreachable).
 """
 
-from astar import a_star_search
+from support.astar import a_star_search
 
 
 def print_result(name, grid, start, goal):
