@@ -1,0 +1,21 @@
+GROUP 6 - WHO EXPLAINS WHICH FILE
+
+MEMBER 1 - MD ASRAFUL HOSSAIN
+File: member1_asraful_map.py
+Say: "My part creates and manages the occupancy-grid map. Zero means a free cell and one means an obstacle. My code also sets the start and destination and saves or loads a map."
+
+MEMBER 2 - SADMAN
+File: member2_sadman_astar.py
+Say: "My part uses A-star search to find the shortest safe path. It stores explored cells and reports path length, explored-node count, and calculation time. It can also calculate a new path after an obstacle appears."
+
+MEMBER 3 - FAHIMA
+File: member3_fahima_robot.py
+Say: "My part controls the virtual robot. It moves the robot one cell at a time, remembers travelled and remaining cells, and stops safely when the next cell becomes blocked."
+
+MEMBER 4
+File: member4_gui_graphics.py
+Say: "My part creates the graphical interface. It draws the map, robot, obstacles, explored cells, and route. It also provides buttons, warnings, performance information, and system tests."
+
+WHOLE GROUP
+File: main.py
+Say: "The main file imports all four modules, gives them to the GUI, and starts the complete program."
