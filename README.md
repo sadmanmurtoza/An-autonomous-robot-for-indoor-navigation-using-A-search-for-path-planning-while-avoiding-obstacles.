@@ -3,7 +3,7 @@
 An autonomous indoor navigation robot simulation developed using **Python, Tkinter, and A* Search**. The system creates a grid map, finds the shortest safe path, controls a virtual robot, and replans when a new obstacle appears.
 
 **Course:** CSE 440 — Artificial Intelligence
-**Group:** 06 | **Section:** 01
+**Group:** 06 | **Section:** 02
 **Institution:** North South University
 **Semester:** Summer 2026
 
