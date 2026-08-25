@@ -9,7 +9,7 @@ The program uses only Python and Tkinter. No external graphics package is needed
 | Member 1 - MD Asraful Hossain | `member1_asraful_map.py` | Occupancy grid, new map, add/remove obstacles, start/goal, save/load map |
 | Member 2 - Sadman | `member2_sadman_astar.py` | A* shortest path, explored nodes, validation, replanning, performance values |
 | Member 3 - Fahima | `member3_fahima_robot.py` | Virtual robot, movement, travelled/remaining cells, pause/resume, dynamic obstacle safety |
-| Member 4 | `member4_gui_graphics.py` | Window, buttons, colors, robot icon, warnings, performance panel, system tests |
+| Member 4 - Sanjida Jaman| `member4_gui_graphics.py` | Window, buttons, colors, robot icon, warnings, performance panel, system tests |
 | Whole group | `main.py` | Connects all four member modules and starts the project |
 
 If Member 4 has a name, replace "Member 4" in this file and at the top of `member4_gui_graphics.py`.
