@@ -1,7 +1,7 @@
 # Simple non-GUI integration test for all core modules.
 from map_model import GridMap
-from member2_sadman_astar import AStarPlanner
-from member3_fahima_robot import VirtualRobot
+from astar import AStarPlanner
+from virtual_robot import VirtualRobot
 
 
 def run_tests():
